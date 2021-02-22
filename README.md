@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Meu nome é Shirley Basílio</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Meu nome é SHIRLEY BASÍLIO</h1>
 <h3 align="center">Além de <em>freelance writer</em> estou me tornando uma <em>front-end developer</em></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHBASILIO" alt="SHBASILIO" /></p>
 
