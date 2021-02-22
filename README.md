@@ -4,12 +4,14 @@
 
 - 🔭 I’m currently working on <strong>Freelance technology writer</strong>
 - 🌱 I’m currently learning Vanilla JavaScript and Java Web
-- 📫 Veja mais sobre meu perfil eme: https://shbasilio.com.br/
+- 📫 Veja mais sobre meu perfil em: https://shbasilio.com.br/
 - 🤔 I’m looking for help with with my professional development
 
 <h4> INTERESSES </H4>
 
 <p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
