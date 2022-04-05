@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on <strong>Freelance technology writer</strong>
 - 🌱 I’m currently learning Vanilla JavaScript and Java Web
-- 📫 Veja mais sobre meu perfil em: https://shbasilio.com.br/
+- 📫 Veja mais sobre meu perfil em: http://shbasilio.com/
 - 🤔 I’m looking for help with with my professional development
 
 <h4> INTERESSES </H4>
