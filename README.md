@@ -2,8 +2,8 @@
 <h3 align="center">Além de <em>freelance writer</em> estou me tornando uma <em>front-end developer</em></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHBASILIO" alt="SHBASILIO" /></p>
 
-- 🔭 I’m currently working on <strong>Freelance technology writer</strong>
-- 🌱 I’m currently learning Vanilla JavaScript and Java Web
+- 🔭 I really enjoy writing and studying about technology.
+- 🌱 I’m currently learning Vanilla JavaScript and React JS
 - 📫 Veja mais sobre meu perfil em: http://shbasilio.com/
 - 🤔 I’m looking for help with with my professional development
 
