@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Vanilla JavaScript and React JS
 - 📫 Veja mais sobre meu perfil em: http://shbasilio.com/
 - 🤔 I’m looking for help with with my professional development
+- :trophy: Uma das vencedoras do concurso Landing Page de Sucesso
 
 <h4> INTERESSES </H4>
 
