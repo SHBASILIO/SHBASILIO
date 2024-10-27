@@ -4,7 +4,7 @@
 
 - 🔭 I really enjoy writing and studying about technology.
 - 🌱 I’m currently learning Vanilla JavaScript and React JS
-- 📫 Veja mais sobre meu perfil em: http://shbasilio.com/
+- 📫 Veja mais sobre meu perfil em: http://shbasilio.com.br/
 - 🤔 I’m looking for help with with my professional development
 - :trophy: Uma das vencedoras do concurso Landing Page de Sucesso
 
